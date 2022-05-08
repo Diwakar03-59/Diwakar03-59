@@ -14,7 +14,7 @@
 #### - 💬 Talks about anything which has DATA involved.
 #### - 📫 How to reach me: diwakarkumarsah77@gmail.com
 #### - ⚡ Fun fact: I am good at Web developement too...
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <h2 align="center">Github stats :bar_chart:</h2>
 <h4 align="center">Top langs :tongue:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diwakar03-59&langs_count=10&theme=tokyonight&layout=compact" alt="Diwakar03-59 :: Top Langs" /></p>
