@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/GeeksForGeeks-%40Diwakar-green)](https://auth.geeksforgeeks.org/user/diwakarkumarsah77/profile)
 [![](https://img.shields.io/badge/HackerRank-Diwakar77-brightgreen)](https://www.hackerrank.com/diwakarkumarsah1)
 [![](https://img.shields.io/badge/CodeStudio-Diwakar-orange)](https://www.codingninjas.com/codestudio/profile/98f5ae13-5778-49fd-b1df-f2b8306cde4f)
-[![](https://img.shields.io/badge/LeetCode-Diwakarsah77-black)](https://leetcode.com/diwakarkumarsah77/)
+[![](https://img.shields.io/badge/LeetCode-Diwakarsah77-lightblue)](https://leetcode.com/diwakarkumarsah77/)
 
 
 #### - 🔭 I’m currently working as a Freelance coding tutor.
