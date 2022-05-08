@@ -24,7 +24,6 @@
 <p align="center">
 <a href="https://github.com/Diwakar03-59"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
 <a href="https://github.com/Diwakar03-59"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a>
-<a href="https://github.com/Diwakar03-59"><img src="https://img.shields.io/badge/CSS-f5f542.svg?style=for-the-badge&logo=css&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
 <a href="https://github.com/Diwakar03-59"><img src="https://img.shields.io/badge/JS-42c8f5.svg?style=for-the-badge&logo=javascript&logoColor=42c8f5&labelColor=ffffff" alt="golang"></a>
 <a href="https://github.com/Diwakar03-59"><img src="https://img.shields.io/badge/Django-6566ba.svg?style=for-the-badge&logo=django&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
 <a href="https://github.com/Diwakar03-59"><img src="https://img.shields.io/badge/Numpy-red.svg?style=for-the-badge&logo=numpy&logoColor=red&labelColor=ffffff" alt="scala"></a>
